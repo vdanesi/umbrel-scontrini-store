@@ -1,0 +1,22 @@
+manifestVersion: 1.1
+id: scontrini-app-per-scontrini
+category: finance
+name: APP PER SCONTRINI
+version: "1.2.0"
+tagline: Gestione finanze con OCR per scontrini e fatture
+description: >-
+  APP PER SCONTRINI è un'app self-hosted per registrare entrate e uscite e acquisire
+  scontrini e fatture tramite fotocamera. L'OCR viene eseguito localmente sul server
+  con Tesseract in italiano. I dati restano sul tuo Umbrel.
+developer: Local
+website: ""
+repo: ""
+support: ""
+dependencies: []
+port: 8080
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+releaseNotes: >-
+  Prima versione Umbrel nativa con dashboard, movimenti e OCR locale per scontrini e fatture.
+torOnly: false
