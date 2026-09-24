@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: app-per-scontrini_web_1
+      APP_HOST: scontrini-app-per-scontrini_web_1
       APP_PORT: 8080
 
   web:
