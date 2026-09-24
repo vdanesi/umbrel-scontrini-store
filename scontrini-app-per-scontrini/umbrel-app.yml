@@ -2,7 +2,7 @@ manifestVersion: 1.1
 id: scontrini-app-per-scontrini
 category: finance
 name: APP PER SCONTRINI
-version: "1.2.0"
+version: "1.2.1"
 tagline: Gestione finanze con OCR per scontrini e fatture
 description: >-
   APP PER SCONTRINI è un'app self-hosted per registrare entrate e uscite e acquisire
